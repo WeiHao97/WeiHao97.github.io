@@ -17,8 +17,8 @@ My current interest lies in the intersection of System and Machine Learning. I b
 
 News
 ======
-* **\[2020-04\]**  Paper accepted to [ISBI 2020](http://2020.biomedicalimaging.org/) with oral presentation!
+* \[2020-04\]  Paper accepted to [ISBI 2020](http://2020.biomedicalimaging.org/) with oral presentation!
 
-* **\[2020-02\]**  I decided to goto Columbia for PhD!
+* \[2020-02\]  I decided to goto Columbia for PhD!
 
-* **\[2019-10\]**  Abstarct Paper accepted to [AI Systems workshop at SOSP 2019](http://learningsys.org/sosp19/) with lighting talk!
+* \[2019-10\]  Abstarct Paper accepted to [AI Systems workshop at SOSP 2019](http://learningsys.org/sosp19/) with lighting talk!
