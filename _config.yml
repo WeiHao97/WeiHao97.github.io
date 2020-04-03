@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wei Hao's Home Page"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Wei Hao"
 description              : &description "Undergrad at University of Wisconsin - Madison"
