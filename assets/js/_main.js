@@ -1,7 +1,6 @@
 /* ==========================================================================
    jQuery plugin settings and other scripts
    ========================================================================== */
-
 $(document).ready(function(){
    // Sticky footer
   var bumpIt = function() {
