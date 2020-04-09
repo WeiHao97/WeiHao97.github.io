@@ -9,6 +9,20 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+
+    <nav class="nav justify-content-center float-right">
+        <div class="nav-link">
+
+          <div class="custom-control custom-switch">
+            <input type="checkbox" class="custom-control-input" id="darkSwitch">
+            <label class="custom-control-label" for="darkSwitch">Dark Mode</label>
+          </div>
+
+          <script src="/assets/scripts/mode-switcher.js"></script>
+
+        </div>
+      </nav>
+
   </head>
 
   <body>
@@ -27,7 +41,7 @@ layout: compress
 
     {% include scripts.html %}
 
-    <script src="/assets/scripts/mode-switcher.js"></script>
+
 
   </body>
 </html>
