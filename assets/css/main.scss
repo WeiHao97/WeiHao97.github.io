@@ -19,14 +19,14 @@ html, html[data-theme="light"], {
 html[data-theme="dark"] {
   --light-text-color: hsl(0, 0%, 60%);
   --main-background-color: hsl(0, 0%, 7%);
-  --main-text-color: hsl(0, 0%, 87%);
+  --main-text-color: hsl(0, 0%, 60%);
 }
 
 @media (prefers-color-scheme: dark) {
   html, html[data-theme="dark"] {
     --light-text-color: hsl(0, 0%, 60%);
     --main-background-color: hsl(0, 0%, 7%);
-    --main-text-color: hsl(0, 0%, 87%);
+    --main-text-color: hsl(0, 0%, 60%);
   }
 
   html[data-theme="light"] {
