@@ -15,10 +15,21 @@
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
-          <a id="theme-toggle" onclick="modeSwitcher()" class="theme-toggle-button"></a>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
   </div>
+
+  <div class="nav-link">
+
+          <div class="custom-control custom-switch">
+            <input type="checkbox" class="custom-control-input" id="darkSwitch">
+            <label class="custom-control-label" for="darkSwitch">Dark Mode</label>
+          </div>
+
+          <script src="/assets/scripts/mode-switcher.js"></script>
+
+  </div>
+  
 </div>
