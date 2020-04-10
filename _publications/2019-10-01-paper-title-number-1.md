@@ -5,7 +5,7 @@ permalink: /publication/2019-10-01-paper-title-number-1
 date: 2019-10-01
 venue: 'AI Systems Workshop at SOSP'
 paperurl: ''
-citation: 'Wei Hao and Shivaram Venkataraman. (2019). &quot;Sparse Convolutions for Faster Object Recognition&quot; <i>AI Systems Workshop at Symposium on Operating Systems Principles</i>.'
+citation: 'Wei Hao and Shivaram Venkataraman, &quot;Sparse Convolutions for Faster Object Recognition&quot;, <i>AI Systems Workshop at Symposium on Operating Systems Principles(SOSP)</i>, 2019.'
 ---
 This paper presents a preliminary technique for accelerating ML inference on sparse inputs by modifying the convolution operator to be sparsity-aware.
 
