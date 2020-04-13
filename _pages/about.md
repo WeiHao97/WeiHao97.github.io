@@ -10,10 +10,13 @@ redirect_from:
 
 I was an undergraduate student, double majoring in CS and Math at the University of Wisconsin-Madison and I graduated in Dec 2019. I was advised by Prof.[Shivaram Venkataraman](https://shivaram.org/) on ML Systsems and by Prof.[Vikas Singh](https://www.biostat.wisc.edu/~vsingh/) on Machine Learning.
 
+I will intern at MPI-SWS under Prof.[Jonathan Mace](https://people.mpi-sws.org/~jcmace/) starting from July 2019.
+
 I will join Columbia University as a PhD starting from 2020 Fall, co-advised by Prof.[Asaf Cidon](https://www.asafcidon.com/) and Prof.[Junfeng Yang](http://www.cs.columbia.edu/~junfeng/).
 
 My current interest lies in the intersection of Systems and Machine Learning. I believe that ML system is not only just a new use case for existing systems, but also requires novel features to accommodate ML’s statistical and computation-intensive nature. I am excited to build energy efficient, scalable and safe ML systems for next generation. 
 
+Please contact [me](wh2473"at_circle"columbia"dot"edu) if you want to collaborate.
 
 News
 ======
