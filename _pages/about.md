@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I was an undergraduate student, double majoring in CS and Math at the University of Wisconsin-Madison and I graduated in Dec 2019. I was advised by Prof.[Shivaram Venkataraman](https://shivaram.org/) on ML Systsems and by Prof.[Vikas Singh](https://www.biostat.wisc.edu/~vsingh/) on Machine Learning.
+I received my B.S. degree in CS and Math from the University of Wisconsin-Madison in Dec 2019. At Madison, I was advised by Prof.[Shivaram Venkataraman](https://shivaram.org/) on ML Systsems and by Prof.[Vikas Singh](https://www.biostat.wisc.edu/~vsingh/) on Machine Learning.
 
 I will join Columbia University as a PhD starting from 2020 Fall, co-advised by Prof.[Asaf Cidon](https://www.asafcidon.com/) and Prof.[Junfeng Yang](http://www.cs.columbia.edu/~junfeng/).
 
-My current interest lies in the intersection of Systems and Machine Learning. I believe that ML system is not only just a new use case for existing systems, but also requires novel features to accommodate ML’s statistical and computation-intensive nature. I am excited to build energy efficient, scalable and safe ML systems for next generation. 
+My current interest lies in the intersection of Systems and Machine Learning. I believe that ML system is not only just a new use case for existing systems, but also requires novel features to accommodate ML’s statistical and computation-intensive nature. I am excited to build smart, scalable and safe ML systems for next generation. 
 
 News
 ======
@@ -22,4 +22,4 @@ News
 
 * \[2020-03\]  I decided to goto Columbia for PhD!
 
-* \[2019-10\]  Abstarct Paper accepted to [AI Systems workshop at SOSP 2019](http://learningsys.org/sosp19/) with lighting talk!
+* \[2019-10\]  Abstarct Paper accepted to [AI Systems workshop at SOSP 2019](http://learningsys.org/sosp19/) with lightning talk!
