@@ -12,7 +12,7 @@ I received my B.S. degree in CS and Math from the University of Wisconsin-Madiso
 
 I will join Columbia University as a PhD starting from 2020 Fall, co-advised by Prof.[Asaf Cidon](https://www.asafcidon.com/) and Prof.[Junfeng Yang](http://www.cs.columbia.edu/~junfeng/).
 
-My current interest lies in the intersection of Systems and Machine Learning. I believe that ML system is not only just a new use case for existing systems, but also requires novel features to accommodate ML’s statistical and computation-intensive nature. I am excited to build smart, scalable and safe ML systems for next generation. Please [contact](mailto:wei[dot]h[at]columbia[dot]edu) me if you want to collaborate.
+My current interest lies in the intersection of Systems and Machine Learning. I believe that ML system is not only just a new use case for existing systems, but also requires novel features to accommodate ML’s statistical and computation-intensive nature. I am excited to build smart, scalable and safe ML systems for next generation. Please [contact](mailto:wei\[dot\]h\[at\]columbia\[dot\]edu) me if you want to collaborate.
 
 News
 ======
