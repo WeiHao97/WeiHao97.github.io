@@ -4,3 +4,4 @@ collection: Links
 tags:
   - Github
 ---
+1. userid and password store: `git config --global credential.helper store`
