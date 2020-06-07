@@ -16,7 +16,8 @@ Education
 
 Work experience
 ======
-* Summer 2018: Research Internship at Citrine Informatics 
+* Summer 2018: Research Internship at Citrine Informatics
+* Summer 2020: Max Planck Institute for Software Systems 
   
 Skills
 ======
