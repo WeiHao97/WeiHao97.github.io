@@ -9,4 +9,4 @@ citation: 'Wei Hao, Nicholas M. Vogt, Zihang Meng, Seong Jae Hwang, Rebecca L. K
 ---
 This paper talks about a novel trainable network diffusion model that infers the propagation dynamics of amyloid pathology, which conditioned on individual-level structural connectivity network. 
 
-[Download paper here]()
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/9098571)
