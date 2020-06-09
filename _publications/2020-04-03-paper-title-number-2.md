@@ -11,4 +11,7 @@ This paper talks about a novel trainable network diffusion model that infers the
 =======
 
 [Download paper here]()
+<<<<<<< HEAD
+>>>>>>> parent of 89134d2... Update 2020-04-03-paper-title-number-2.md
+=======
 >>>>>>> parent of 89134d2... Update 2020-04-03-paper-title-number-2.md
