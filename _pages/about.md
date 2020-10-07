@@ -16,10 +16,12 @@ My current interest lies in the intersection of Systems and Machine Learning. I 
 
 News
 ======
+* \[2020-08\]  Our work at MPI on DNN serving is accepted at OSDI 2020! ["Serving DNNs like Clockwork: Performance Predictability from the Bottom Up"](https://www.usenix.org/conference/osdi20/presentation/gujarati)
+
 * \[2020-05\]  I will start my summer internship under Prof.[Jonathan Mace](https://people.mpi-sws.org/~jcmace/) at MPI-SWS!
 
-* \[2020-04\]  Paper accepted to [ISBI 2020](http://2020.biomedicalimaging.org/) with oral presentation!
+* \[2020-04\]  Paper accepted at [ISBI 2020](http://2020.biomedicalimaging.org/) with oral presentation!
 
 * \[2020-03\]  I decided to goto Columbia for PhD!
 
-* \[2019-10\]  Abstarct Paper accepted to [AI Systems workshop at SOSP 2019](http://learningsys.org/sosp19/) with lightning talk!
+* \[2019-10\]  Abstarct Paper accepted at [AI Systems workshop at SOSP 2019](http://learningsys.org/sosp19/) with lightning talk!
