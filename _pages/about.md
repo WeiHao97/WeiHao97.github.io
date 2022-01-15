@@ -28,4 +28,4 @@ News
 
 * \[2020-03\]  I decided to goto Columbia for PhD!
 
-* \[2019-10\]  Abstarct Paper accepted at [AI Systems workshop at SOSP 2019](http://learningsys.org/sosp19/) with lightning talk!
+* \[2019-10\]  Abstarct Paper accepted at [AI Systems workshop at SOSP 2019](http://learningsys.org/sosp19/) with lightning talk! 
