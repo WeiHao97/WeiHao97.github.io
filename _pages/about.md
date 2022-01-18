@@ -16,7 +16,7 @@ My current interest lies in the intersection of Systems and Machine Learning. I 
 
 News
 ======
-* \[2022-01\]  Our work "A Tale of Two Models: Constructing Evasive Attacks on Edge Models" is accepted at MLSys 2022 **(acceptance rate: 20.6%)**! This is my firt firt-author paper during the PhD!
+* \[2022-01\]  Our work "A Tale of Two Models: Constructing Evasive Attacks on Edge Models" is accepted at MLSys 2022 **(acceptance rate: 20.6%)**! This is my first first-author paper during the PhD!
 
 * \[2020-11\]  Clockwork has received the [OSDI Distinguished Artifact Award](https://sysartifacts.github.io/osdi2020/results.html)! I wish they can give us a [best video](https://www.usenix.org/conference/osdi20/presentation/gujarati) award as well!
 
