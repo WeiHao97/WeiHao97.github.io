@@ -10,7 +10,7 @@ redirect_from:
 
 I am a second year PhD student in Computer Science department at Columbia University, co-advised by Prof.[Asaf Cidon](https://www.asafcidon.com/) and Prof.[Junfeng Yang](http://www.cs.columbia.edu/~junfeng/).
 
-I received my B.S. degree in CS and Math from the University of Wisconsin-Madison in Dec 2019. At Madison, I was advised by Prof.[Shivaram Venkataraman](https://shivaram.org/) on ML Systsems and by Prof.[Vikas Singh](https://www.biostat.wisc.edu/~vsingh/) on Machine Learning. I also work closely with Prof.[Jonathan Mace](https://people.mpi-sws.org/~jcmace/) at MPI-SWS.
+I received my B.S. from the University of Wisconsin-Madison in Dec 2019. At Madison, I was advised by Prof.[Shivaram Venkataraman](https://shivaram.org/). I also worked closely with Prof.[Jonathan Mace](https://people.mpi-sws.org/~jcmace/) at MPI-SWS.
 
 My current interest lies in the intersection of Systems and Machine Learning. I believe that ML system is not only just a new use case for existing systems, but also requires novel features to accommodate ML’s statistical and computation-intensive nature. I am excited to build smart, scalable and safe ML systems for next generation. Please [contact](mailto:wei<dot>h<at>columbia<dot>edu) me if you want to collaborate.
 
