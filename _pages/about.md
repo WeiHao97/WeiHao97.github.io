@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## <i class="fa fa-cog fa-fw"></i> About me ##
+# <i class="fa fa-cog fa-fw"></i> About me #
 I am a second year PhD student in Computer Science department at Columbia University, co-advised by Prof.[Asaf Cidon](https://www.asafcidon.com/) and Prof.[Junfeng Yang](http://www.cs.columbia.edu/~junfeng/).
 
 I received my B.S. from the University of Wisconsin-Madison in Dec 2019. At Madison, I was advised by Prof.[Shivaram Venkataraman](https://shivaram.org/). I also worked closely with Prof.[Jonathan Mace](https://people.mpi-sws.org/~jcmace/) at MPI-SWS.
@@ -33,5 +33,6 @@ My current interest lies in the intersection of Systems and Machine Learning. I 
 </ul>
 
 
-# <i class="fa fa-map-marker" aria-hidden="true"></i> Vistor Map #
+## <i class="fa fa-map-marker" aria-hidden="true"></i> Vistor Map ##
+
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=436daa&w=a&t=n&d=tYhSMKyW43Y6iAu13D7b8y6KfGJH-8_r38PmskGse5I&co=f5f6f7&cmo=ba0202&cmn=ff0012'></script>
