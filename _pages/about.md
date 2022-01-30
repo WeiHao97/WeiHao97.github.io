@@ -17,7 +17,7 @@ My current interest lies in the intersection of Systems and Machine Learning. I 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 <ul style="width: auto; height: 300px; overflow: auto">
 
-    <li> <b>[2022-01]</b>. Our work "A Tale of Two Models: Constructing Evasive Attacks on Edge Models" is accepted at MLSys 2022 (<b>acceptance rate: 20.6%)</b>! This is my first first-author paper during the PhD!</li>
+    <li> <b>[2022-01]</b>. Our work "A Tale of Two Models: Constructing Evasive Attacks on Edge Models" is accepted at MLSys 2022 <b>(acceptance rate: 20.6%)</b>! This is my first first-author paper during the PhD!</li>
 
     <li> <b>[2020-11]</b>. <b>Clockwork</b> has received the <a href="https://sysartifacts.github.io/osdi2020/results.html">OSDI Distinguished Artifact Award</a>! I wish they can give us a <a href="https://www.usenix.org/conference/osdi20/presentation/gujarati">best video</a> award as well!</li>
 
@@ -33,6 +33,6 @@ My current interest lies in the intersection of Systems and Machine Learning. I 
 </ul>
 
 
-## <i class="fa fa-map-marker" aria-hidden="true"></i> Vistor Map ##
+## <i class="fa fa-map-marker"></i> Vistor Map ##
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=436daa&w=a&t=n&d=tYhSMKyW43Y6iAu13D7b8y6KfGJH-8_r38PmskGse5I&co=f5f6f7&cmo=ba0202&cmn=ff0012'></script>
