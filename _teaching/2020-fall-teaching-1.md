@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "CSEE4121 - Computer Systems for Data Science, Spring 22"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2020-fall-teaching-1
+permalink: /teaching/2022-spring-teaching
 venue: "Columbia University, Computer Science Department"
-date: 2020-09-01
+date: 2022-01-15
 location: "NYC, USA"
 ---
 
-Ohhh my first TA job
+TA

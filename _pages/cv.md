@@ -12,13 +12,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science and Mathematics, UW-Madison, 2019
 * Ph.D in ML Systems, Columbia University, 2025 (expected)
+* B.S. in Computer Science and Mathematics, UW-Madison, 2019
 
 Work experience
 ======
+* Summer 2022: Research Internship at MSR, System Group, Redmond
+* Summer 2020: Research Internship at Max Planck Institute for Software Systems
 * Summer 2018: Research Internship at Citrine Informatics
-* Summer 2020: Research Internship at Max Planck Institute for Software Systems 
   
 Skills
 ======
@@ -41,7 +42,3 @@ Teaching
   <ul>{% for post in site.teaching  reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 6 different slack teams
