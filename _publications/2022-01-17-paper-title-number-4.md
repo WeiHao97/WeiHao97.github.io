@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/2022-01-14-DIVA-MLSys
 date: 2022-01-14
 venue: 'Fifth Conference on Machine Learning and Systems (MLSys)'
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2204.10933'
 citation: 'Wei Hao, Aahil Awatramani, Jiayang Hu, Chengzhi Mao, Pin-Chun Chen, Eyal Cidon, Asaf Cidon, Junfeng Yang, &quot;A Tale of Two Models: Constructing Evasive Attacks on Edge Models&quot;, <i> Fifth Conference on Machine Learning and Systems (MLSys)</i>, 2022.'
 ---
