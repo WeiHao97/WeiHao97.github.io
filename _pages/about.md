@@ -19,7 +19,7 @@ My current interest lies in the intersection of Systems and Machine Learning. I 
 
     <li> <b>[2022-02]</b>. I will start my summer internship at MSR Redmond. My mentors are <a href="https://www.microsoft.com/en-us/research/people/dnarayanan/">Deepak Narayanan</a> and <a href="https://www.microsoft.com/en-us/research/people/amar/">Amar Phanishayee</a>!</li>
 
-    <li> <b>[2022-01]</b>. Our work "A Tale of Two Models: Constructing Evasive Attacks on Edge Models" is accepted at MLSys 2022 <b>(acceptance rate: 20.6%)</b>! This is my first first-author paper during the PhD!</li>
+    <li> <b>[2022-01]</b>. Our work <a href="https://proceedings.mlsys.org/paper/2022/file/92cc227532d17e56e07902b254dfad10-Paper.pdf">"A Tale of Two Models: Constructing Evasive Attacks on Edge Models"</a> is accepted at MLSys 2022 <b>(acceptance rate: 20.6%)</b>! This is my first first-author paper during the PhD!</li>
 
     <li> <b>[2020-11]</b>. <b>Clockwork</b> has received the <a href="https://sysartifacts.github.io/osdi2020/results.html">OSDI Distinguished Artifact Award</a>! I wish they can give us a <a href="https://www.usenix.org/conference/osdi20/presentation/gujarati">best video</a> award as well!</li>
 
