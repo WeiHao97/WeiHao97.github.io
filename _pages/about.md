@@ -17,6 +17,8 @@ My current interest lies in the intersection of Systems and Machine Learning. I 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 <ul style="width: auto; height: 300px; overflow: auto">
 
+    <li> <b>[2023-03]</b>. I will start my summer internship at MSR Redmond working on <a href="https://www.microsoft.com/en-us/research/project/fiddle/">Project Fiddle</a> again. In person this time!</li>
+
     <li> <b>[2022-07]</b>. Win the MLSys student travel grant!</li>
 
     <li> <b>[2022-02]</b>. I will start my summer internship at MSR Redmond. My mentors are <a href="https://www.microsoft.com/en-us/research/people/dnarayanan/">Deepak Narayanan</a> and <a href="https://www.microsoft.com/en-us/research/people/amar/">Amar Phanishayee</a>!</li>
