@@ -12,10 +12,12 @@ I am a fourth year PhD student in Computer Science department at Columbia Univer
 
 I received my B.S. from the University of Wisconsin-Madison in Dec 2019. At Madison, I was advised by Prof.[Shivaram Venkataraman](https://shivaram.org/).
 
-My current interest lies in the intersection of Systems and Machine Learning. I believe that ML system is not only just a new use case for existing systems, but also requires novel features to accommodate ML’s statistical and computation-intensive nature. I am excited to build smart, scalable and safe ML systems for next generation. Please [contact](mailto:wei<dot>h<at>columbia<dot>edu) me if you want to collaborate.
+My current interest lies in the intersection of Machine Learning, Systems and Security. I am also actively exploring potential start-up ideas. Please [contact](mailto:wei<dot>h<at>columbia<dot>edu) me if you want to collaborate or just for a fun chat.
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 <ul style="width: auto; height: 300px; overflow: auto">
+
+    <li> <b>[2024-05]</b>. Our work at MSR and Columbia on ML model managment system is accepted by ICML!</li>
 
     <li> <b>[2023-05]</b>. Selected as <a href="https://mlcommons.org/en/rising-stars-2023/">ML and Systems Rising Star</a>!</li>
 
