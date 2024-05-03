@@ -17,7 +17,7 @@ My current interest lies in the intersection of Machine Learning, Systems and Se
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 <ul style="width: auto; height: 300px; overflow: auto">
 
-    <li> <b>[2024-05]</b>. Our work at MSR and Columbia on ML model managment system is accepted by ICML!</li>
+    <li> <b>[2024-05]</b>. Our work "MGit: A Model Versioning and Management System" on model lineage tracking and its applications is accepted by ICML!</li>
 
     <li> <b>[2023-05]</b>. Selected as <a href="https://mlcommons.org/en/rising-stars-2023/">ML and Systems Rising Star</a>!</li>
 
