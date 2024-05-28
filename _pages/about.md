@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: ""
-excerpt: "About Me"
+title: "Wei Hao"
 author_profile: true
 redirect_from: 
   - /about/
