@@ -17,7 +17,9 @@ Education
 
 Work experience
 ======
-* Summer 2022: Research Internship at MSR, System Group, Redmond
+* Summer 2024: Research Internship at Barracuda Networks
+* Summer 2023: Research Internship at MSR, System Group
+* Summer 2022: Research Internship at MSR, System Group
 * Summer 2020: Research Internship at Max Planck Institute for Software Systems
 * Summer 2018: Research Internship at Citrine Informatics
   
