@@ -16,9 +16,11 @@ My current interest lies in the intersection of Machine Learning, Systems and Se
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 <ul style="width: auto; height: 300px; overflow: auto">
 
-    <li> <b>[2024-05]</b>. Our work "MGit: A Model Versioning and Management System" on model lineage tracking and its applications is accepted by ICML!</li>
+    <li> <b>[2024-10]</b>. Our work "Nazar: Monitoring and Adapting ML Models on Mobile Devices" on continious model monitoring is accepted by ASPLOS 25'!</li>
 
-    <li> <b>[2023-05]</b>. Selected as <a href="https://mlcommons.org/en/rising-stars-2023/">ML and Systems Rising Star</a>!</li>
+    <li> <b>[2024-05]</b>. Our work "MGit: A Model Versioning and Management System" on model lineage tracking and its applications is accepted by ICML 24'!</li>
+
+    <li> <b>[2023-05]</b>. Selected as <a href="https://mlcommons.org/en/rising-stars-2023/">ML and Systems Rising Star 23'</a>!</li>
 
     <li> <b>[2023-03]</b>. I will start my summer internship at MSR Redmond working on <a href="https://www.microsoft.com/en-us/research/project/fiddle/">Project Fiddle</a> again. In person this time!</li>
 
@@ -26,11 +28,11 @@ My current interest lies in the intersection of Machine Learning, Systems and Se
 
     <li> <b>[2022-02]</b>. I will start my summer internship at MSR Redmond. My mentors are <a href="https://www.microsoft.com/en-us/research/people/dnarayanan/">Deepak Narayanan</a> and <a href="https://www.microsoft.com/en-us/research/people/amar/">Amar Phanishayee</a>!</li>
 
-    <li> <b>[2022-01]</b>. Our work <a href="https://proceedings.mlsys.org/paper/2022/file/92cc227532d17e56e07902b254dfad10-Paper.pdf">"A Tale of Two Models: Constructing Evasive Attacks on Edge Models"</a> is accepted at MLSys 2022 <b>(acceptance rate: 20.6%)</b>! This is my first first-author paper during the PhD!</li>
+    <li> <b>[2022-01]</b>. Our work <a href="https://proceedings.mlsys.org/paper/2022/file/92cc227532d17e56e07902b254dfad10-Paper.pdf">"A Tale of Two Models: Constructing Evasive Attacks on Edge Models"</a> is accepted at MLSys 22' <b>(acceptance rate: 20.6%)</b>! This is my first first-author paper during the PhD!</li>
 
     <li> <b>[2020-11]</b>. <b>Clockwork</b> has received the <a href="https://sysartifacts.github.io/osdi2020/results.html">OSDI Distinguished Artifact Award</a>! I wish they can give us a <a href="https://www.usenix.org/conference/osdi20/presentation/gujarati">best video</a> award as well!</li>
 
-    <li> <b>[2020-08]</b>. Our work at MPI on DNN serving <a href="https://www.usenix.org/conference/osdi20/presentation/gujarati">"Serving DNNs like Clockwork: Performance Predictability from the Bottom Up"</a> is accepted at OSDI 2020! </li>
+    <li> <b>[2020-08]</b>. Our work at MPI on DNN serving <a href="https://www.usenix.org/conference/osdi20/presentation/gujarati">"Serving DNNs like Clockwork: Performance Predictability from the Bottom Up"</a> is accepted at OSDI 20'! </li>
 
     <li> <b>[2020-05]</b>. I will start my summer internship under Prof.<a href="https://people.mpi-sws.org/~jcmace/">Jonathan Mace</a> at MPI-SWS!</li>
 
