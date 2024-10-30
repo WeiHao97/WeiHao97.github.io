@@ -18,6 +18,8 @@ My current interest lies in the intersection of Machine Learning, Systems and Se
 
     <li> <b>[2024-10]</b>. Our work "Nazar: Monitoring and Adapting ML Models on Mobile Devices" on continious model monitoring is accepted by ASPLOS 25'!</li>
 
+    <li> <b>[2024-06]</b>. I will start my summer internship at Barracuda Networks working on AI security in production!
+    
     <li> <b>[2024-05]</b>. Our work "MGit: A Model Versioning and Management System" on model lineage tracking and its applications is accepted by ICML 24'!</li>
 
     <li> <b>[2023-05]</b>. Selected as <a href="https://mlcommons.org/en/rising-stars-2023/">ML and Systems Rising Star 23'</a>!</li>
