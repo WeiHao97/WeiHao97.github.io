@@ -18,7 +18,7 @@ My current interest lies in the intersection of Machine Learning, Systems and Se
 
     <li> <b>[2024-10]</b>. Our work "Nazar: Monitoring and Adapting ML Models on Mobile Devices" on continious model monitoring is accepted by ASPLOS 25'!</li>
 
-    <li> <b>[2024-06]</b>. I will start my summer internship at Barracuda Networks working on AI security in production!
+    <li> <b>[2024-06]</b>. I will start my summer internship at Barracuda Networks working on AI security in production!</li>
     
     <li> <b>[2024-05]</b>. Our work "MGit: A Model Versioning and Management System" on model lineage tracking and its applications is accepted by ICML 24'!</li>
 
@@ -43,6 +43,7 @@ My current interest lies in the intersection of Machine Learning, Systems and Se
     <li> <b>[2020-03]</b>. I decided to goto Columbia for PhD!</li>
 
     <li> <b>[2019-10]</b>. Abstarct Paper accepted at <a href="http://learningsys.org/sosp19/">AI Systems workshop at SOSP 2019</a> with lightning talk!</li>
+
 </ul>
 
 
