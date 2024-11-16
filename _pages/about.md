@@ -16,6 +16,8 @@ My current interest lies in the intersection of Machine Learning, Systems and Se
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 <ul style="width: auto; height: 300px; overflow: auto">
 
+    <li> <b>[2024-11]</b>. Talk @ AI & Cybersecurity Night hosted by the Google CISO Community. Thanks Google for the invitation! </li>
+
     <li> <b>[2024-10]</b>. Our work "Nazar: Monitoring and Adapting ML Models on Mobile Devices" on continious model monitoring is accepted by ASPLOS 25'!</li>
 
     <li> <b>[2024-06]</b>. I will start my summer internship at Barracuda Networks working on AI security in production!</li>
