@@ -20,7 +20,7 @@ My research focuses in the intersection of Machine Learning, Systems and Securit
 
     <li> <b>[2024-11]</b>. We conducted the first large-scale analysis on the usage of LLM among real-world malicious emails, partnered with Brracuda Networks! Results are coming soon! </li>
 
-    <li> <b>[2024-11]</b>. We developed two robust AI-generated content detection systems on text & voice (tested on 1.3M samples, including real scam calls and simulations using tools like Elevenlabs)! Results are coming soon! </li>
+    <li> <b>[2024-11]</b>. We developed two robust AI-generated content detection systems on text & audio (tested on 1.3M samples, including real scam calls and simulations using tools like Elevenlabs)! Results are coming soon! </li>
     
     <li> <b>[2024-11]</b>. Talk @ AI & Cybersecurity Night hosted by the Google CISO Community. Thanks Google for the invitation! </li>
 
