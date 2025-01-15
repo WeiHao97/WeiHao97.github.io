@@ -20,15 +20,15 @@ My research focuses in the intersection of Machine Learning, Systems and Securit
 
     <li> <b>[2024-11]</b>. We conducted the first large-scale analysis on the usage of LLM among real-world malicious emails, partnered with Brracuda Networks! Results are coming soon! </li>
 
-    <li> <b>[2024-11]</b>. We developed two robust AI-generated content detection systems on text & audio (tested on 1.3M samples, including real scam calls and simulations using tools like Elevenlabs)! Results are coming soon! </li>
+    <li> <b>[2024-11]</b>. We developed two robust AI-generated content detection systems on <a href="https://arxiv.org/pdf/2408.04237">text</a> & <a href="https://arxiv.org/abs/2411.00121">audio</a> (tested on 1.3M samples, including real scam calls and simulations using tools like Elevenlabs)! Results are coming soon! </li>
     
     <li> <b>[2024-11]</b>. Talk @ AI & Cybersecurity Night hosted by the Google CISO Community. Thanks Google for the invitation! </li>
 
-    <li> <b>[2024-10]</b>. Our work "Nazar: Monitoring and Adapting ML Models on Mobile Devices" on continious AI system monitoring is accepted by ASPLOS 25'!</li>
+    <li> <b>[2024-10]</b>. Our work <a href="https://arxiv.org/pdf/2305.07772">"Nazar: Monitoring and Adapting ML Models on Mobile Devices"</a> on continious AI system monitoring is accepted by ASPLOS 25'!</li>
 
     <li> <b>[2024-06]</b>. I will start my summer internship at Barracuda Networks working on AI security in production!</li>
     
-    <li> <b>[2024-05]</b>. Our work "MGit: A Model Versioning and Management System" on ML model lineage tracking and its applications is accepted by ICML 24'!</li>
+    <li> <b>[2024-05]</b>. Our work <a href="https://proceedings.mlr.press/v235/hao24c.html">"MGit: A Model Versioning and Management System"</a> on ML model lineage tracking and its applications is accepted by ICML 24'!</li>
 
     <li> <b>[2023-05]</b>. Selected as <a href="https://mlcommons.org/en/rising-stars-2023/">ML and Systems Rising Star 23'</a>!</li>
 
