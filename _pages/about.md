@@ -18,6 +18,8 @@ My research focuses in the intersection of Machine Learning, Systems and Securit
 
     <li> <b>[present]</b>. I am developing a testing framework for AI-agents focusing on completness, coverage and consistency. Stay tuned! </li> 
 
+    <li> <b>[2025-01]</b>. Our work <a href="https://arxiv.org/abs/2411.04223"> "Diversity Helps Jailbreak Large Language Modelsn"</a> (author list will be updated in the camera-ready) is accpepted to NACCL'25!</li>
+
     <li> <b>[2025-01]</b>. Our work <a href="https://openreview.net/forum?id=2GcR9bO620"> "I Can Hear You: Selective Robust Training for Deepfake Audio Detection"</a> is accpepted to ICLR'25!</li>
 
     <li> <b>[2024-11]</b>. We conducted the first large-scale analysis on the usage of LLM among real-world malicious emails, partnered with Brracuda Networks! Results are coming soon! </li>
