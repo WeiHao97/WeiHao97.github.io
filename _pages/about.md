@@ -18,6 +18,8 @@ My research focuses in the intersection of Machine Learning, Systems and Securit
 
     <li> <b>[present]</b>. I am developing a testing framework for AI-agents focusing on completness, coverage and consistency. Stay tuned! </li> 
 
+    <li> <b>[2025-05]</b>. Our work "Learning to Rewrite: Generalized LLM-Generated Text Detection" is accpepted to the main conference of ACL '25!</li>
+
     <li> <b>[2025-03]</b>. Our work "Characterizing the Prevalence of LLM-Generated Malicious Emails" is accpepted to ACM IMC '25!</li>
 
     <li> <b>[2025-01]</b>. Our work <a href="https://arxiv.org/abs/2411.04223"> "Diversity Helps Jailbreak Large Language Models"</a> is accpepted to NACCL 25'!</li>
