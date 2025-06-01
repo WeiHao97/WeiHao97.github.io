@@ -1,5 +1,5 @@
 ---
-title: "Characterizing the Prevalence of LLM-Generated Malicious Emails"
+title: "Do Spammers Dream of Electric Sheep? Characterizing the Prevalence of LLM-Generated Malicious Emails"
 collection: manuscripts
 permalink: /manuscripts/2024-11-01-Email-LLM-Detection
 date: 2025-10-28
