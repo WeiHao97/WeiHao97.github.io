@@ -18,7 +18,7 @@ My research focuses in the intersection of Machine Learning, Systems and Securit
 
     <li> <b>[present]</b>. I am developing a testing framework for AI-agents focusing on completness, coverage and consistency. Stay tuned! </li> 
 
-    <li> <b>[2025-06]</b>. Study on the Prevalence of LLM-Generated Malicious Emails is covered in Forbes<a href="https://www.forbes.com/sites/daveywinder/2025/06/20/ai-is-behind-50-of-spam---and-now-its-hacking-your-accounts/"> and TechRepublic <a href="https://www.techrepublic.com/article/news-ai-generated-spam-email-barracuda-report/">!</li>
+    <li> <b>[2025-06]</b>. Study on the Prevalence of LLM-Generated Malicious Emails is covered in Forbes <a href="https://www.forbes.com/sites/daveywinder/2025/06/20/ai-is-behind-50-of-spam---and-now-its-hacking-your-accounts/"> and TechRepublic <a href="https://www.techrepublic.com/article/news-ai-generated-spam-email-barracuda-report/"> ! </li>
 
     <li> <b>[2025-05]</b>. Our work "Learning to Rewrite: Generalized LLM-Generated Text Detection" is accpepted to the main conference of ACL '25!</li>
 
