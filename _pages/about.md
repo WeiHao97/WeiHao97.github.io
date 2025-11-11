@@ -16,7 +16,7 @@ My research focuses in the intersection of Machine Learning, Systems and Securit
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 <ul style="width: auto; height: 300px; overflow: auto">
 
-    <li> <b>[present]</b>. I am developing a testing framework for AI-agents. Stay tuned! </li> 
+    <li> <b>[present]</b>. Building something interesting </li> 
 
     <li> <b>[2025-06]</b>. Study on the Prevalence of LLM-Generated Malicious Emails is covered in <a href="https://www.forbes.com/sites/daveywinder/2025/06/20/ai-is-behind-50-of-spam---and-now-its-hacking-your-accounts/">Forbes</a> and  <a href="https://www.techrepublic.com/article/news-ai-generated-spam-email-barracuda-report/">TechRepublic</a>! </li>
 
