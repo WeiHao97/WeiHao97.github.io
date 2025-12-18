@@ -9,7 +9,6 @@ redirect_from:
 # <i class="fa fa-cog fa-fw"></i> About me #
 I am a graduating PhD student (2025 Summer) in Computer Science department at Columbia University, co-advised by Prof.[Asaf Cidon](https://www.asafcidon.com/) and Prof.[Junfeng Yang](http://www.cs.columbia.edu/~junfeng/).
 
-I received my B.S. from the University of Wisconsin-Madison in Dec 2019. At Madison, I was advised by Prof.[Shivaram Venkataraman](https://shivaram.org/).
 
 My research focuses in the intersection of Machine Learning, Systems and Security. I am actively exploring potential start-up ideas. Please [contact](mailto:wei<dot>h<at>columbia<dot>edu) me if you want to collaborate or just for a fun chat.
 
