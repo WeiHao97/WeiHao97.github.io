@@ -9,7 +9,7 @@ redirect_from:
 # <i class="fa fa-cog fa-fw"></i> About me #
 I received my PhD in Computer Science department at Columbia University, co-advised by Prof.[Asaf Cidon](https://www.asafcidon.com/) and Prof.[Junfeng Yang](http://www.cs.columbia.edu/~junfeng/).
 
-I received my B.S. double majoring in Computer Sicence and Applied Math from the University of Wisconsin-Madison, advised by Prof.[Shivaram Venkataraman](https://shivaram.org/).
+I received my B.S. double majoring in Computer Science and Applied Math from the University of Wisconsin-Madison, advised by Prof.[Shivaram Venkataraman](https://shivaram.org/).
 
 My work empowers reliable AI systems deployed in tech companies including Mircorsoft and Barracuda Networks. I am buidling something interesting right now.
 
