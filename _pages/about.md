@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 # <i class="fa fa-cog fa-fw"></i> About me #
-I received my PhD in Computer Science department at Columbia University, co-advised by Prof.[Asaf Cidon](https://www.asafcidon.com/) and Prof.[Junfeng Yang](http://www.cs.columbia.edu/~junfeng/).
+I am receiving my PhD degree in Computer Science department at Columbia University, co-advised by Prof.[Asaf Cidon](https://www.asafcidon.com/) and Prof.[Junfeng Yang](http://www.cs.columbia.edu/~junfeng/).
 
 I received my B.S. double majoring in Computer Science and Applied Math from the University of Wisconsin-Madison, advised by Prof.[Shivaram Venkataraman](https://shivaram.org/).
 
