@@ -11,7 +11,7 @@ I am receiving my PhD degree in Computer Science department at Columbia Universi
 
 I received my B.S. double majoring in Computer Science and Applied Math from the University of Wisconsin-Madison, advised by Prof.[Shivaram Venkataraman](https://shivaram.org/).
 
-My work empowers reliable AI systems deployed in tech companies including Mircorsoft and Barracuda Networks. I am buidling something interesting right now.
+My work empowers reliable AI systems deployed in tech companies including Mircorsoft and Barracuda Networks. I am buildling something interesting right now.
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 <ul style="width: auto; height: 300px; overflow: auto">
