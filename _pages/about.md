@@ -18,6 +18,8 @@ My work empowers reliable AI systems deployed in tech companies including Micros
 
     <li> <b>[present]</b>. Building something interesting </li> 
 
+    <li> <b>[2026-04]</b>. My dissertaion is awarded for the G-Research PhD Prize. Thank you <a href="https://www.gresearch.com/">G-Research</a>! </li> 
+
     <li> <b>[2025-06]</b>. Study on the Prevalence of LLM-Generated Malicious Emails is covered in <a href="https://www.forbes.com/sites/daveywinder/2025/06/20/ai-is-behind-50-of-spam---and-now-its-hacking-your-accounts/">Forbes</a> and  <a href="https://www.techrepublic.com/article/news-ai-generated-spam-email-barracuda-report/">TechRepublic</a>! </li>
 
     <li> <b>[2025-05]</b>. Our work "Learning to Rewrite: Generalized LLM-Generated Text Detection" is accpepted to the main conference of ACL '25!</li>
