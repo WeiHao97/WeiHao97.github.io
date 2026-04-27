@@ -18,6 +18,8 @@ My work empowers reliable AI systems deployed in tech companies including Micros
 
     <li> <b>[present]</b>. Building something interesting </li> 
 
+    <li> <b>[2026-04]</b> Its my honor to receive the Davide Giri Memorial Prize! This award is given to a PhD in CS who has combined excellence in research results with continued outstanding efforts to promote research collaboration.</li>
+
     <li> <b>[2026-04]</b>. My dissertation was awarded the G-Research PhD Prize. Thank you, <a href="https://www.gresearch.com/">G-Research</a>! </li> 
 
     <li> <b>[2025-06]</b>. Study on the Prevalence of LLM-Generated Malicious Emails is covered in <a href="https://www.forbes.com/sites/daveywinder/2025/06/20/ai-is-behind-50-of-spam---and-now-its-hacking-your-accounts/">Forbes</a> and  <a href="https://www.techrepublic.com/article/news-ai-generated-spam-email-barracuda-report/">TechRepublic</a>! </li>
