@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if page.title and page.title != "" %}{{ page.title }} · {{ site.name }}{% else %}{{ site.name }} · {{ site.description }}{% endif %}</title>
+  <title>{% if page.title and page.title != "" and page.title != site.name %}{{ page.title }} · {{ site.name }}{% else %}{{ site.name }}{% endif %}</title>
   <meta name="description" content="{{ page.description | default: site.description }}">
   <meta name="author" content="{{ site.name }}">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
