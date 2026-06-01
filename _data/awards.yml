@@ -1,0 +1,29 @@
+# Honors & awards — rendered on the homepage
+- year: "2026"
+  name: "Davide Giri Memorial Prize"
+  url: "https://www.cs.columbia.edu/education/phd/awards/"
+  tag: "Columbia CS"
+  desc: "Given to a Computer Science PhD who combines excellence in research results with continued outstanding efforts to promote research collaboration."
+
+- year: "2026"
+  name: "G-Research PhD Prize"
+  url: "https://www.gresearch.com/news/g-research-2026-phd-prize-winners-columbia-university/"
+  tag: "Dissertation"
+  desc: "Awarded for outstanding doctoral research."
+
+- year: "2023"
+  name: "ML and Systems Rising Star"
+  url: "https://mlcommons.org/en/rising-stars-2023/"
+  tag: "MLCommons"
+  desc: "Recognized among the field's emerging researchers at the intersection of machine learning and systems."
+
+- year: "2022"
+  name: "MLSys Student Travel Grant"
+  tag: "MLSys"
+  desc: ""
+
+- year: "2020"
+  name: "OSDI Distinguished Artifact Award"
+  url: "https://sysartifacts.github.io/osdi2020/results.html"
+  tag: "OSDI"
+  desc: "For Clockwork — a distributed DNN serving system with predictable end-to-end performance."

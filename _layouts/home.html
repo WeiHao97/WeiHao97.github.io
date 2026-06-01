@@ -1,0 +1,159 @@
+---
+layout: modern
+---
+{% assign p = site.data.profile %}
+
+<!-- ============================ HERO ============================ -->
+<header class="hero">
+  <div class="hero__in">
+    <div>
+      <p class="eyebrow"><span class="pulse" aria-hidden="true"></span>{{ p.role }}</p>
+      <h1>{{ p.headline }}</h1>
+      <p class="hero__lead">{{ p.lead }}</p>
+      <div class="hero__meta">
+        {% for m in p.meta %}
+        <span>
+          {% if m.icon == "cap" %}<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 10L12 5 2 10l10 5 10-5z"/><path d="M6 12v5c0 1 2.7 2.5 6 2.5s6-1.5 6-2.5v-5"/></svg>
+          {% elsif m.icon == "pin" %}<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 10c0 6-9 12-9 12s-9-6-9-12a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+          {% elsif m.icon == "rocket" %}<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z"/><path d="M12 15l-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z"/><path d="M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5"/></svg>
+          {% endif %}
+          {{ m.text }}
+        </span>
+        {% endfor %}
+      </div>
+      <div class="btn-row">
+        <a class="btn btn--primary" href="{{ '/publications/' | relative_url }}">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+          Read the research
+        </a>
+        <a class="btn" href="{{ '/cv/' | relative_url }}">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6M16 13H8M16 17H8M10 9H8"/></svg>
+          View CV
+        </a>
+        {% if site.author.email %}<a class="btn" href="mailto:{{ site.author.email }}">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-10 6L2 7"/></svg>
+          Email
+        </a>{% endif %}
+      </div>
+    </div>
+    <img class="hero__photo" src="{{ '/images/Wei.png' | relative_url }}" alt="Portrait of Wei Hao" width="188" height="188">
+  </div>
+</header>
+
+<!-- ============================ VISION ============================ -->
+<section class="section" id="vision">
+  <div class="wrap">
+    <div class="section__head">
+      <div>
+        <span class="section__kicker">01 — Vision</span>
+      </div>
+    </div>
+    <div class="vision-grid">
+      <h2 class="vision">{{ p.vision_lead }}</h2>
+      <div class="vision-body">
+        <p>{{ p.vision_body }}</p>
+        <p style="font-size:14.5px">
+          Co-advised by
+          {% for a in p.advisors %}<a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.name }}</a>{% unless forloop.last %} &amp; {% endunless %}{% endfor %}.
+        </p>
+        <div class="pillars">
+          {% for pl in p.pillars %}
+          <div class="pillar">
+            <div class="pillar__ic">
+              {% if pl.icon == "server" %}<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="3" width="20" height="7" rx="2"/><rect x="2" y="14" width="20" height="7" rx="2"/><path d="M6 6.5h.01M6 17.5h.01"/></svg>
+              {% elsif pl.icon == "shield" %}<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="m9 12 2 2 4-4"/></svg>
+              {% elsif pl.icon == "scan" %}<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 7V5a2 2 0 0 1 2-2h2M17 3h2a2 2 0 0 1 2 2v2M21 17v2a2 2 0 0 1-2 2h-2M7 21H5a2 2 0 0 1-2-2v-2"/><path d="M7 12h10"/></svg>
+              {% endif %}
+            </div>
+            <div>
+              <h3>{{ pl.title }}</h3>
+              <p>{{ pl.text }}</p>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================ NEWS / TIMELINE ============================ -->
+<section class="section section--soft" id="news">
+  <div class="wrap">
+    <div class="section__head">
+      <div>
+        <span class="section__kicker">02 — Timeline</span>
+        <h2>Recent news</h2>
+      </div>
+    </div>
+    <div class="news">
+      {% for n in site.data.news %}
+      <div class="news__item {% if n.highlight %}news__item--hl{% endif %} {% if n.fold %}collapsed news-fold{% endif %}">
+        <div class="news__date">{{ n.date }}</div>
+        <div class="news__body">{{ n.html }}</div>
+      </div>
+      {% endfor %}
+      <div class="news__more">
+        <button class="btn" type="button" id="newsToggle" aria-expanded="false">Show full history</button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================ SELECTED WORK ============================ -->
+{% assign featured = site.publications | where: "featured", true | sort: "date" | reverse %}
+<section class="section" id="work">
+  <div class="wrap">
+    <div class="section__head">
+      <div>
+        <span class="section__kicker">03 — Selected Work</span>
+        <h2>Publications that shaped the thesis</h2>
+      </div>
+      <a class="section__more" href="{{ '/publications/' | relative_url }}">All publications →</a>
+    </div>
+    <div class="pubs">
+      {% for post in featured %}
+        {% include redesign/pub.html post=post %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- ============================ AWARDS ============================ -->
+<section class="section section--soft" id="awards">
+  <div class="wrap">
+    <div class="section__head">
+      <div>
+        <span class="section__kicker">04 — Honors</span>
+        <h2>Awards &amp; recognition</h2>
+      </div>
+    </div>
+    <div class="awards">
+      {% for a in site.data.awards %}
+      <div class="award">
+        <div class="award__yr tnum">{{ a.year }}</div>
+        <div>
+          <div class="award__name">{% if a.url %}<a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.name }}</a>{% else %}{{ a.name }}{% endif %}</div>
+          {% if a.desc and a.desc != "" %}<div class="award__desc">{{ a.desc }}</div>{% endif %}
+        </div>
+        <div class="award__tag">{{ a.tag }}</div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<script>
+  (function () {
+    var btn = document.getElementById('newsToggle');
+    if (!btn) return;
+    btn.addEventListener('click', function () {
+      var open = document.body.classList.toggle('news-open');
+      document.querySelectorAll('.news-fold').forEach(function (el) {
+        el.classList.toggle('collapsed', !open);
+      });
+      btn.textContent = open ? 'Show less' : 'Show full history';
+      btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    });
+  })();
+</script>

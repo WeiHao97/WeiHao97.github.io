@@ -1,0 +1,43 @@
+# Homepage hero + vision content
+role: "Reliable & Secure AI Systems"
+headline: "Wei Hao"
+lead: "I build the systems that make AI <strong>trustworthy by enterprises in the real world</strong> — reliable when it serves, and secure when it's attacked."
+status: "Building an AI startup company"
+
+meta:
+  - icon: "rocket"
+    text: "Founder of an AI startup company"
+  - icon: "cap"
+    text: "PhD, Computer Science · Columbia University"
+  - icon: "pin"
+    text: "New York City"
+
+# Research vision (prose)
+vision_lead: "Make AI systems we can actually depend on."
+vision_body: >
+  I received my PhD degree from Columbia University. My PhD work spans the full lifecycle of deploying machine learning in production — from
+  <strong>serving and monitoring</strong> models at scale to <strong>defending</strong> them against
+  adversaries and detecting their misuse. The thread connecting it all: AI is only useful when it is
+  reliable, observable, and safe. My systems are deployed in companies including
+  <strong>Microsoft</strong> and <strong>Barracuda Networks</strong>.
+
+pillars:
+  - icon: "server"
+    title: "ML Systems at Scale"
+    text: "Predictable serving, model versioning, and on-device monitoring — Clockwork (OSDI), MGit (ICML), Nazar (ASPLOS)."
+  - icon: "shield"
+    title: "AI Security & Robustness"
+    text: "Evasive attacks on edge models, jailbreak analysis, and robust deepfake-audio detection."
+  - icon: "scan"
+    title: "Detecting AI Misuse"
+    text: "Generalized LLM-generated text detection and large-scale study of LLM-generated malicious email."
+
+education:
+  - "PhD, Computer Science — Columbia University"
+  - "BS, Computer Science & Applied Math — UW–Madison"
+
+advisors:
+  - name: "Asaf Cidon"
+    url: "https://www.asafcidon.com/"
+  - name: "Junfeng Yang"
+    url: "http://www.cs.columbia.edu/~junfeng/"

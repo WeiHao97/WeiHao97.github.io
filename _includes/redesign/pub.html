@@ -1,0 +1,37 @@
+{% assign post = include.post %}
+<article class="pub">
+  <div class="pub__venue">
+    <span class="vbadge">{{ post.venue }}</span>
+    <span class="pub__year tnum">{{ post.year }}</span>
+  </div>
+  <div>
+    <h3 class="pub__title">{% if post.paperurl and post.paperurl != "" %}<a href="{{ post.paperurl }}" target="_blank" rel="noopener">{{ post.title }}</a>{% else %}{{ post.title }}{% endif %}</h3>
+    <p class="pub__authors">{{ post.authors | replace: 'Wei Hao', '<span class="me">Wei Hao</span>' }}</p>
+    <div class="pub__links">
+      {% if post.award and post.award != "" %}
+      <span class="chip chip--award">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="8" r="6"/><path d="M8.2 13.5 7 22l5-3 5 3-1.2-8.5"/></svg>
+        {{ post.award }}
+      </span>
+      {% endif %}
+      {% if post.paperurl and post.paperurl != "" %}
+      <a class="chip" href="{{ post.paperurl }}" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/></svg>
+        {% if post.venue == "Patent" %}Patent{% else %}Paper{% endif %}
+      </a>
+      {% endif %}
+      {% if post.code and post.code != "" %}
+      <a class="chip" href="{{ post.code }}" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m16 18 6-6-6-6M8 6l-6 6 6 6"/></svg>
+        Code
+      </a>
+      {% endif %}
+      {% if post.video and post.video != "" %}
+      <a class="chip" href="{{ post.video }}" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m23 7-7 5 7 5V7z"/><rect x="1" y="5" width="15" height="14" rx="2"/></svg>
+        Talk
+      </a>
+      {% endif %}
+    </div>
+  </div>
+</article>

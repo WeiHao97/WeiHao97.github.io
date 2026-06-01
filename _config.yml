@@ -176,8 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
-    permalink: /:collection/:path/
+    output: false # teaching material retired from the redesigned site
   publications:
     output: true
     permalink: /:collection/:path/
@@ -244,6 +243,12 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+
+# Theme: disabled. This site ships its own standalone design
+# (/assets/css/redesign.css + _layouts/modern.html). Setting theme to null
+# prevents the github-pages gem from injecting jekyll-theme-primer, whose
+# assets/css/style.scss pulls in non-ASCII Sass that breaks the local build.
+theme: null
 
 # Sass/SCSS
 sass:

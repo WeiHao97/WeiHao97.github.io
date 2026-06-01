@@ -1,0 +1,64 @@
+# Recent news — rendered as a timeline on the homepage.
+# Set highlight: true to accent the node. Set fold: true to hide behind "Show more".
+- date: "Present"
+  highlight: true
+  html: "Building an AI startup company."
+
+- date: "May 2026"
+  highlight: true
+  html: "Officially received my PhD degree from <strong>Columbia University</strong>."
+
+- date: "Apr 2026"
+  highlight: true
+  html: "Honored to receive the <a href=\"https://www.cs.columbia.edu/education/phd/awards/\"><strong>Davide Giri Memorial Prize</strong></a> for combining research excellence with efforts to promote research collaboration."
+
+- date: "Apr 2026"
+  highlight: true
+  html: "My dissertation received the <a href=\"https://www.gresearch.com/news/g-research-2026-phd-prize-winners-columbia-university/\">G-Research PhD Prize</a>."
+
+- date: "Jun 2025"
+  html: "Our study on the prevalence of LLM-generated malicious emails was covered in <a href=\"https://www.forbes.com/sites/daveywinder/2025/06/20/ai-is-behind-50-of-spam---and-now-its-hacking-your-accounts/\">Forbes</a> and <a href=\"https://www.techrepublic.com/article/news-ai-generated-spam-email-barracuda-report/\">TechRepublic</a>."
+
+- date: "May 2025"
+  html: "<a href=\"https://aclanthology.org/2025.acl-long.322/\">Learning to Rewrite: Generalized LLM-Generated Text Detection</a> accepted to the main conference of <strong>ACL 2025</strong>."
+
+- date: "Mar 2025"
+  html: "<a href=\"https://dl.acm.org/doi/10.1145/3730567.3732922\">Do Spammers Dream of Electric Sheep?</a> — characterizing LLM-generated malicious emails — accepted to <strong>ACM IMC 2025</strong>."
+
+- date: "Jan 2025"
+  html: "<a href=\"https://aclanthology.org/2025.naacl-long.238/\">Diversity Helps Jailbreak Large Language Models</a> accepted to <strong>NAACL 2025</strong>."
+
+- date: "Jan 2025"
+  html: "<a href=\"https://openreview.net/forum?id=2GcR9bO620\">I Can Hear You: Selective Robust Training for Deepfake Audio Detection</a> accepted to <strong>ICLR 2025</strong>."
+
+- date: "Oct 2024"
+  fold: true
+  html: "<a href=\"https://dl.acm.org/doi/10.1145/3669940.3707246\">Nazar: Monitoring and Adapting ML Models on Mobile Devices</a> accepted to <strong>ASPLOS 2025</strong>."
+
+- date: "Jun 2024"
+  fold: true
+  html: "Started a summer internship at Barracuda Networks working on AI security in production."
+
+- date: "May 2024"
+  fold: true
+  html: "<a href=\"https://proceedings.mlr.press/v235/hao24c.html\">MGit: A Model Versioning and Management System</a> accepted to <strong>ICML 2024</strong>."
+
+- date: "May 2023"
+  fold: true
+  html: "Selected as an <a href=\"https://mlcommons.org/en/rising-stars-2023/\">ML and Systems Rising Star</a>."
+
+- date: "Mar 2023"
+  fold: true
+  html: "Returned to MSR Redmond for a summer internship on <a href=\"https://www.microsoft.com/en-us/research/project/fiddle/\">Project Fiddle</a> — in person this time."
+
+- date: "Jan 2022"
+  fold: true
+  html: "<a href=\"https://proceedings.mlsys.org/paper/2022/file/92cc227532d17e56e07902b254dfad10-Paper.pdf\">A Tale of Two Models: Constructing Evasive Attacks on Edge Models</a> accepted at <strong>MLSys 2022</strong> (20.6% acceptance) — my first first-author PhD paper."
+
+- date: "Nov 2020"
+  fold: true
+  html: "<strong>Clockwork</strong> received the <a href=\"https://sysartifacts.github.io/osdi2020/results.html\">OSDI Distinguished Artifact Award</a>."
+
+- date: "Aug 2020"
+  fold: true
+  html: "<a href=\"https://www.usenix.org/conference/osdi20/presentation/gujarati\">Serving DNNs like Clockwork</a> accepted at <strong>OSDI 2020</strong>."

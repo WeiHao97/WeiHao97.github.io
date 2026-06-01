@@ -1,11 +1,34 @@
 ---
-layout: archive
-title: "Talks and presentations"
+layout: modern
+title: "Talks"
 permalink: /talks/
-author_profile: true
+description: "Invited talks and conference presentations by Wei Hao."
 ---
 
+<header class="hero">
+  <div class="wrap page-hd">
+    <p class="eyebrow">Talks &amp; Presentations</p>
+    <h1>Talks</h1>
+    <p>Selected conference presentations and invited talks.</p>
+  </div>
+</header>
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+<section class="section">
+  <div class="wrap">
+    <div class="talks">
+      {% assign talks = site.talks | sort: "date" | reverse %}
+      {% for post in talks %}
+      <article class="talk">
+        <div class="talk__yr tnum">{{ post.date | date: "%Y" }}</div>
+        <div>
+          <h3>{{ post.title }}</h3>
+          <div class="talk__meta">
+            {% if post.type %}{{ post.type }} · {% endif %}{{ post.venue }}{% if post.location %} · {{ post.location }}{% endif %}
+          </div>
+          {% if post.content and post.content != "" %}<div>{{ post.content | markdownify }}</div>{% endif %}
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
