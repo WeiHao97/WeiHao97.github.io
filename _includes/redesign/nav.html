@@ -2,6 +2,9 @@
   <div class="nav__in">
     <a class="nav__brand" href="{{ '/' | relative_url }}" aria-label="Wei Hao — home"><span aria-hidden="true">I&nbsp;am&nbsp;<span class="brand-rotate" id="brandRotate">Wei&nbsp;Hao</span><span class="brand-caret"></span></span></a>
     <div class="nav__links">
+      {% if site.author.linkedin %}
+      <a class="navtext" href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>
+      {% endif %}
       <a class="navtext{% if page.url == '/publications/' %} active{% endif %}" href="{{ '/publications/' | relative_url }}">Research</a>
       <a class="navtext{% if page.url == '/talks/' %} active{% endif %}" href="{{ '/talks/' | relative_url }}">Talks</a>
       <a class="navtext{% if page.url == '/cv/' %} active{% endif %}" href="{{ '/cv/' | relative_url }}">CV</a>
