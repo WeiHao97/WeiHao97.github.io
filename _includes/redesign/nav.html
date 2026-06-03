@@ -31,7 +31,7 @@
     var el = document.getElementById('brandRotate');
     if (!el) return;
     var NB = ' ';
-    var words = ['Wei' + NB + 'Hao', 'a PhD', 'a Founder', 'an investor', 'a friend'];
+    var words = ['Wei' + NB + 'Hao', 'a PhD', 'a Founder', 'an investor'];
     var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     if (reduce) { el.textContent = words[0]; return; }
     var wi = 0, ci = 0, deleting = false;
